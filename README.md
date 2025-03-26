@@ -15,8 +15,8 @@ This project is a Flask-based API that provides personalized product recommendat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/product-recommendation-api.git
-cd product-recommendation-api
+git clone https://github.com/prashant11gupta/ranker.git
+cd ranker
 ```
 
 ### 2. Set up the environment
